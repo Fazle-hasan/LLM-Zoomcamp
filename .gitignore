@@ -1,5 +1,6 @@
 # My Ignore
 nohup.out
+ollama_files
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
